@@ -1,0 +1,15 @@
+h1{
+     background-color: black;
+     color: whitesmoke;
+     height: 200px;
+     padding: 20px;
+}
+  header nav ul li a{
+                  text-decoration: none;
+                 
+                
+  }
+  ul lia{
+    list-style: none;
+    color:white;
+  }
